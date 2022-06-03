@@ -1,2 +1,3 @@
 # git1
-this is git practice 1
+This is git practice 1
+This repository was used to learn git and github
